@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 8f9c77552cbf58440bab3b3fc0c920bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7845803364153102081
+    second: Sara_Idle
+  - first:
+      213: 8868228022721026040
+    second: Sara_forwardSwing1
+  - first:
+      213: 9037109404602582409
+    second: Sara_forwardSwing2
+  - first:
+      213: 1436895956570706331
+    second: Sara_forwardSwing3
+  - first:
+      213: 3710080938583494479
+    second: Sara_backSwing1
+  - first:
+      213: -3948328635196597002
+    second: Sara_backSwing2
+  - first:
+      213: 6574837291920461343
+    second: Sara_cast1
+  - first:
+      213: 2988195661080369007
+    second: Sara_cast2
+  - first:
+      213: 3014344205953825790
+    second: Sara_cast3
+  - first:
+      213: -6734121103483608190
+    second: Sara_cast4
+  - first:
+      213: -6296799385500137327
+    second: Sara_walk1
+  - first:
+      213: -2671149716464664703
+    second: Sara_walk2
+  - first:
+      213: 147337937862085804
+    second: Sara_walk3
+  - first:
+      213: -487427523510526244
+    second: Sara_cheer
+  - first:
+      213: 5005172436332627487
+    second: Sara_ready
+  - first:
+      213: 6795904504041390558
+    second: Sara_bow1
+  - first:
+      213: 6179434688682641528
+    second: Sara_bow2
+  - first:
+      213: -3381547102624495618
+    second: Sara_bow3
+  - first:
+      213: -6208523785265839276
+    second: Sara_blink
+  - first:
+      213: 8676630745396707468
+    second: Sara_death1
+  - first:
+      213: -6553958171442152708
+    second: Sara_death2
+  - first:
+      213: 6027499212238744612
+    second: Sara_death3
+  - first:
+      213: -7533791771948236329
+    second: Sara_hit1
+  - first:
+      213: 1894418898984025548
+    second: Sara_hit2
+  - first:
+      213: 6092327340556153464
+    second: Sara_hit3
+  - first:
+      213: 2750987972559000463
+    second: Sara_roll1
+  - first:
+      213: 3218798475909646511
+    second: Sara_roll2
+  - first:
+      213: -744718446434287055
+    second: Sara_roll3
+  - first:
+      213: -9210825662942404839
+    second: Sara_roll4
+  - first:
+      213: -8040701264437232129
+    second: Sara_jump1
+  - first:
+      213: 1872938485739317246
+    second: Sara_jump2
+  - first:
+      213: 27585658469144664
+    second: Sara_jump3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sara_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a7a6ecdf3a57479bfae7461ce0fa2
+      internalID: 7845803364153102081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_forwardSwing1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1680
+        width: 142.22223
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b0f5935b7faf8489ac6c0208c93c9b
+      internalID: 8868228022721026040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_forwardSwing2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1680
+        width: 142.22223
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ec1dacdf19a74984316c0fcff579b
+      internalID: 9037109404602582409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_forwardSwing3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1680
+        width: 142.22223
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e837e18f918d4f4091aef7abbd3d1e9
+      internalID: 1436895956570706331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_backSwing1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1680
+        width: 142.22223
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240eea92845982a4991432bf9f457444
+      internalID: 3710080938583494479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_backSwing2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1680
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4821da14c4d74f8590b1b3e801b43
+      internalID: -3948328635196597002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_cast1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1680
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e4bccbb8d3114d85b030bf6429917
+      internalID: 6574837291920461343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_cast2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1678
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fc8744b4a8e54582d65e29229a882
+      internalID: 2988195661080369007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_cast3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1680
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953fafd20929194f9eff4db9d469c17
+      internalID: 3014344205953825790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_cast4
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1680
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb97ab7bec9574aa84983d29521540
+      internalID: -6734121103483608190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_walk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1438
+        width: 142
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9f3860f5b88643a6de01230878c4b
+      internalID: -6296799385500137327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_walk2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1438
+        width: 142
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8b2ca67129064dae54086b9bec95d
+      internalID: -2671149716464664703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_walk3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1438
+        width: 142
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73715b87f870ee646b0ac6a38c712799
+      internalID: 147337937862085804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_cheer
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1412
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0f22b6714c6340a1926d67fd0bf1c
+      internalID: -487427523510526244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_ready
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1439
+        width: 142
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff260899ae4be49aadb206f6367ea0
+      internalID: 5005172436332627487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_bow1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1412
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8012bbe39d953499c5906c629e2656
+      internalID: 6795904504041390558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_bow2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1412
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277bf73c2117bc43979cf7f2b978ca4
+      internalID: 6179434688682641528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_bow3
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1412
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de408111eaa1b548b7e70e414bf3ddd
+      internalID: -3381547102624495618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_blink
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 142
+        height: 240
+      alignment: 9
+      pivot: {x: 0.47925735, y: 0.4446874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3554bad84f944b959baaa609de834
+      internalID: -6208523785265839276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_death1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1162
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05551a368207849a6e9039fbe48d47
+      internalID: 8676630745396707468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_death2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1161
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d96a326083914abb867e4e4bbff48
+      internalID: -6553958171442152708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_death3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1162
+        width: 226
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f96352c98f3514cb98bf821c492b96
+      internalID: 6027499212238744612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_hit1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1134
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8ebc94bffaa2418d190e28e83a97b
+      internalID: -7533791771948236329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_hit2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1134
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31357c7cf3c1bde458a493a1e0462c5f
+      internalID: 1894418898984025548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_hit3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1129
+        width: 130
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bfc0f90b39084baedbc5aa034a1dc
+      internalID: 6092327340556153464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_roll1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db1732b30890a41b678a2c7b9d6f09
+      internalID: 2750987972559000463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_roll2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 881
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf705429daf4d74497f71a8c3e8aa8c
+      internalID: 3218798475909646511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_roll3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 881
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed836ce0ada603a42993350b88233559
+      internalID: -744718446434287055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_roll4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 881
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af098095ba00945bde6c33b2b6b53d
+      internalID: -9210825662942404839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_jump1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 638
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4090e7e36bb63574784ff9f93821501f
+      internalID: -8040701264437232129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_jump2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 637
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f7800302248304596ad1cf59aa15da
+      internalID: 1872938485739317246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sara_jump3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 637
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3fdf3cd04003c4abd66fe3dc651a12
+      internalID: 27585658469144664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
